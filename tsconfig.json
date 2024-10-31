@@ -5,8 +5,7 @@
 		"outDir": "lib",
 		"rootDir": ".",
 		"declaration": true,
-		"declarationDir": "lib",
-		"resolveJsonModule": true
+		"declarationDir": "lib"
 	},
 	"include": ["src/**/*", "tests/**/*"],
 	"exclude": ["node_modules"],
