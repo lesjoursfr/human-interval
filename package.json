@@ -25,7 +25,7 @@
     "numbered": "^1.1.0"
   },
   "devDependencies": {
-    "ava": "3.15.0",
+    "ava": "6.2.0",
     "xo": "0.37.1"
   },
   "xo": {
