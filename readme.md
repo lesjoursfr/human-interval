@@ -41,13 +41,13 @@ humanInterval("4 months, 3 days, 5 hours and forty-five seconds");
 
 Supports the following units in the plural and singular forms:
 
--   `seconds`
--   `minutes`
--   `hours`
--   `days`
--   `weeks`
--   `months` — assumes 30 days
--   `years` — assumes 365 days
+- `seconds`
+- `minutes`
+- `hours`
+- `days`
+- `weeks`
+- `months` — assumes 30 days
+- `years` — assumes 365 days
 
 ### Wordy numbers
 
