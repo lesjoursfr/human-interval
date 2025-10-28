@@ -1,6 +1,6 @@
 {
 	"name": "@lesjoursfr/human-interval",
-	"version": "1.0.4",
+	"version": "2.0.0",
 	"description": "Human readable time measurements",
 	"license": "MIT",
 	"repository": "lesjoursfr/human-interval",
