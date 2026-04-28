@@ -3,7 +3,10 @@
 	"version": "3.0.0",
 	"description": "Human readable time measurements",
 	"license": "MIT",
-	"repository": "lesjoursfr/human-interval",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lesjoursfr/human-interval.git"
+	},
 	"homepage": "https://github.com/lesjoursfr/human-interval#readme",
 	"bugs": {
 		"url": "https://github.com/lesjoursfr/human-interval/issues"
