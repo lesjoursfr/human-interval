@@ -23,8 +23,8 @@ export default tseslint.config(
   {
     ignores: [
       "package.json",
-      "eslint.config.mjs",
-      "prettier.config.mjs",
+      "eslint.config.js",
+      "prettier.config.js",
       "node_modules/*",
       ".yarn/*",
       "lib/*",

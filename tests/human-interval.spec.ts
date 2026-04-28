@@ -1,5 +1,5 @@
 import { strictEqual } from "assert";
-import humanInterval from "../src/index";
+import humanInterval from "../src/index.js";
 
 type UnitsType = {
   second: number;
