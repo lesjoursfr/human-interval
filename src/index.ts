@@ -1,4 +1,4 @@
-import numbered from "numbered";
+import numbered from "./numbered.js";
 
 type UnitsType = {
   second: number;
